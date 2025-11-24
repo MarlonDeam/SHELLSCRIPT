@@ -1,0 +1,6 @@
+Produto, Valor, Loja
+Playstation5, 4999, iByte
+MacBook, 9799, iPlace
+GalaxySamsung, 4654, FastShop
+iPad, 3499, iPlace
+SmartTV554k, 2799, FastShop
